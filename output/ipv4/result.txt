@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-22 06:15:17,http://bxtv.3a.ink/migu.php?id=cctv7
+2025-11-22 18:15:26,http://bxtv.3a.ink/migu.php?id=cctv7
 
 📺央视频道,#genre#
 CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
@@ -13,6 +13,7 @@ CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
+浙江卫视,http://60.16.0.216:5757/hls/22/index.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
