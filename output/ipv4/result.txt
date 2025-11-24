@@ -1,13 +1,7 @@
 🕘️更新时间,#genre#
-2025-11-24 06:14:18,http://bxtv.3a.ink/migu.php?id=cctv7
+2025-11-24 18:18:35,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 📺央视频道,#genre#
-CCTV-7,http://bxtv.3a.ink/migu.php?id=cctv7
-CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
-CCTV-9,http://bxtv.3a.ink/migu.php?id=cctv9
-CCTV-13,http://bxtv.3a.ink/migu.php?id=cctv13
-CCTV-14,http://bxtv.3a.ink/migu.php?id=cctv14
-CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17
 CETV-1,http://183.184.47.145:8001/rtp/226.0.2.181:9360
 
 💰央视付费频道,#genre#
@@ -58,8 +52,8 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
-少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
+少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
@@ -78,7 +72,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎮游戏频道,#genre#
