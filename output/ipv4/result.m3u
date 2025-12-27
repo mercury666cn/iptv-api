@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mercury666cn/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-27 18:16:16
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-28 06:14:58
 http://183.220.107.138:4022/rtp/239.11.0.109:5140
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://183.220.107.138:4022/rtp/239.11.0.109:5140
@@ -69,8 +69,6 @@ https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229
 https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🌊港·澳·台",东森电影
 https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-name="Now华剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Now华剧.png" group-title="🌊港·澳·台",Now华剧
-http://iptv.4666888.xyz/iptv2A.php?id=84
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
 https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
@@ -99,6 +97,8 @@ http://43.138.0.72:35455/yy/1382754187
 https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
 https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥电影.png" group-title="🎬电影频道",龙祥电影
+http://zb.hpc.tw/smtv.php?id=lungxiangtime_twn
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
 https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/体育赛事.png" group-title="🏀体育频道",体育赛事
@@ -131,8 +131,6 @@ rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 #EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CN卡通.png" group-title="🪁动画频道",CN卡通
 https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-http://124.228.160.14:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="🪁动画频道",蜡笔小新
 http://www.douzhicloud.site:35455/bilibili/30837590
 #EXTINF:-1 tvg-name="游戏竞技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏竞技.png" group-title="🎮游戏频道",游戏竞技
