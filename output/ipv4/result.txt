@@ -1,13 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-23 06:15:04,http://211.92.102.44:9901/tsfile/live/0002_1.m3u8
+2026-08-23 18:17:01,http://112.27.5.218:9901/tsfile/live/0004_1.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://211.92.102.44:9901/tsfile/live/0002_1.m3u8
 CCTV-4,http://112.27.5.218:9901/tsfile/live/0004_1.m3u8
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.89:8000
-CCTV-6,http://211.92.102.44:9901/tsfile/live/0006_1.m3u8
 CCTV-12,http://111.59.24.227:8181/tsfile/live/0012_1.m3u8
-CCTV-13,http://111.59.24.227:8181/tsfile/live/0013_1.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8
 CCTV-17,https://live.264788.xyz/channel/cctv17
 
@@ -31,7 +28,6 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 山西卫视,https://live.264788.xyz/channel/shanxiweishi
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 西藏卫视,https://live.264788.xyz/channel/xizangweishi
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi
 
@@ -44,13 +40,12 @@ CCTV-17,https://live.264788.xyz/channel/cctv17
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天映经典,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=1919463
 
 🎥咪咕直播,#genre#
@@ -68,7 +63,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-金鹰卡通,http://112.27.5.218:9901/tsfile/live/1010_1.m3u8
 
 🎮游戏频道,#genre#
 
